@@ -8,7 +8,7 @@
 
 3. **Chose number**: 
    - Click on the Contact number whom you want to send messeges.
-   - 
+     
 4. **Open Inspect Element**: 
    - Click CTRL+SHIFT+I or F12 or as per your web browser.
 
