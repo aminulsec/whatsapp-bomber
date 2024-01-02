@@ -6,4 +6,6 @@ Steps
 3.click CTRL+SHIFT+I
 4.go to Console
 5.paste spam.js codes
-7.EJOY 
+7.EJOY
+
+Updated on 02/01/2024
