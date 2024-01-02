@@ -25,7 +25,7 @@
    - Enter your messege.
 
 9. **Pop-Up**: 
-   - How Many Times e.g 10.
+   - How Many Times e.g 10. & Click on Send Button
 
 10. **BOOM ENJOY**: 
    - Don't Forget to insipire me.
