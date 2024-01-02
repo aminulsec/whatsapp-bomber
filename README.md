@@ -1,25 +1,33 @@
 # whatsapp-bomber
-HOW TO USE
-Steps
-1. Open https://web.whatsapp.com into your browser
-2.login to your account by QR Scan
-3.click CTRL+SHIFT+I
-4.go to Console
-5.paste spam.js codes
-7.EJOY
-
+**HOW TO USE**
 1. **Open**: 
-   - Provide a brief description of what the user needs to open. It could be a website, an application, or any other context you're referring to.
+   - Open https://web.whatsapp.com into your browser.
 
-2. **Click Next**: 
-   - Describe the action of clicking the "Next" button. Specify where the button is located or any additional details that might be helpful.
+2. **Login Whatsapp Web**: 
+   - login to your account by QR Scan.
 
-3. **Open Folder**: 
-   - Instruct the user to open a folder. Include information on which folder to open and any specific instructions regarding this step.
+3. **Chose number**: 
+   - Click on the Contact number whom you want to send messeges.
+   - 
+4. **Open Inspect Element**: 
+   - Click CTRL+SHIFT+I or F12 or as per your web browser.
 
-4. **Run**: 
-   - Explain what needs to be run. It could be a script, a command, or a specific action. Include details on how to execute this step.
+5. **Console**: 
+   - Go to Console Tab.
+   - 
+6. **Paste**: 
+   - Paste the code from spam.js.
 
+7. **Run**: 
+   - Now Click Enter Button to run.
 
+8. **Pop-Up**: 
+   - Enter your messege.
 
-Updated on 02/01/2024
+9. **Pop-Up**: 
+   - How Many Times e.g 10.
+
+10. **BOOM ENJOY**: 
+   - Don't Forget to insipire me.
+
+**Updated on 02/01/2024**
